@@ -1,0 +1,6 @@
+classes= 10
+train  = ./DigitDetection/cfg/train.txt
+valid  = ./DigitDetection/cfg/train.txt
+names = ./DigitDetection/cfg/HN.names
+backup = ./DigitDetection/weights
+
