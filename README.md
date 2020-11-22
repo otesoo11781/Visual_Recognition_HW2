@@ -25,7 +25,7 @@ The following specs were used to **test** the yolov4 on SVHN:
 To reproduct my submission without retrainig, do the following steps:
 1. [Installation](#installation)
 2. [Dataset Preparation](#dataset-preparation)
-3. [Transfer Training (optional)](#transfer-training)
+3. [Transfer Training](#transfer-training)
 4. [Inference](#inference)
 5. [Make Submission](#make-submission)
 
