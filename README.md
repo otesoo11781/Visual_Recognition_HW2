@@ -133,7 +133,7 @@ subdivisions=1
 After that, you will get detection results (**./DigitDetection/result.json**).
 
 Note: You can test my model on [Colab notebook](https://colab.research.google.com/drive/1cdcXTFOS86gu9-ziz4vtU19kIUxt_AtG?usp=sharing). It will show a inference time of **24.538 fps**.
-Note: The repo has provided **result.json** which is inferred on Colab.
+**Note**: The repo has provided **result.json** which is inferred on Colab.
 
 ## Make Submission
 1. Transform result.json into submission format by:
@@ -142,5 +142,5 @@ python ./DigitDetection/parse_result.py --input ./DigitDetection/result.json --o
 ```
 2. Submit transformed **0856610.json** to [here](https://drive.google.com/drive/folders/1QNW9YvzFM7Nmg0PqUqbjgqpFyoo1wBEu).
 
-Note: the repo has provided **0856610.json** which is corresponding to my submission with **mAP 0.49137**. 
+**Note**: the repo has provided **0856610.json** which is corresponding to my submission with **mAP 0.49137**. 
 
