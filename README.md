@@ -10,7 +10,7 @@ When run on Colab, it can achieve **0.49 mAP** and about **25 fps** on SVHN test
 
 Yolov4 uitilize a large amount of novel model tricks to improve the network, the details please refer to the [original paper](https://arxiv.org/abs/2004.10934).
 
-The source code is highly borrowed from [Yolov4](https://github.com/AlexeyAB/darknet) and [SVHN](https://github.com/pavitrakumar78/Street-View-House-Numbers-SVHN-Detection-and-Classification-using-CNN)
+The source code is highly borrowed from [Yolov4](https://github.com/AlexeyAB/darknet) and [SVHN](https://github.com/pavitrakumar78/Street-View-House-Numbers-SVHN-Detection-and-Classification-using-CNN).
 
 ## Hardware
 The following specs were used to **train** the yolov4 on SVHN:
@@ -71,7 +71,7 @@ cd DigitDetection/dataset/
 python construct_datasets.py
 cd ../../
 ```
-After that, you will get txt files, which contain the corresponding bounding bouxes, for each training image in train directory.
+After that, you will get a txt file, which contains the corresponding bounding bouxes, for each training image in train/ directory.
 
 **Important:** you can download the processed dataset from [dataset.zip](https://drive.google.com/file/d/1dlNmVJmfG9Df9z21hZwKe9hR_h-dPhuG/view?usp=sharing)
 
