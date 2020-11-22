@@ -133,6 +133,7 @@ subdivisions=1
 After that, you will get detection results (**./DigitDetection/result.json**).
 
 **Note**: You can test my model on [Colab notebook](https://colab.research.google.com/drive/1cdcXTFOS86gu9-ziz4vtU19kIUxt_AtG?usp=sharing). It will show a inference time of **24.538 fps**.
+
 **Note**: The repo has provided **result.json** which is inferred on Colab.
 
 ## Make Submission
