@@ -71,7 +71,7 @@ cd DigitDetection/dataset/
 python construct_datasets.py
 cd ../../
 ```
-After that, you will get a txt file, which contains the corresponding bounding bouxes, for each training image in train/ directory.
+After that, you will get a txt file, which contains the corresponding bounding boxes, for each training image in train/ directory.
 
 **Important:** you can download the processed dataset from [dataset.zip](https://drive.google.com/file/d/1dlNmVJmfG9Df9z21hZwKe9hR_h-dPhuG/view?usp=sharing)
 
