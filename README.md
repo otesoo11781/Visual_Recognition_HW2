@@ -78,9 +78,9 @@ After that, you will get a txt file, which contains the corresponding bounding b
 ## Transfer Training
 **Important: Download the required pretrained weights and transfer trained weights by [weights.zip](https://drive.google.com/file/d/16GZVXv3TJ7jCptoKbXecIS2hxq25dr3H/view?usp=sharing)**
 
-- yolov4.conv.137: pretrained on MS COCO dataset
-- yolov4-HN_best.weights: best weights trained on SVHN dataset in 20,000 iterations.
-- yolov4-HN_final.weights: fianl weights trained on SVHN dataset in 20,000 iterations. 
+- **yolov4.conv.137**: pretrained on MS COCO dataset
+- **yolov4-HN_best.weights**: best weights trained on SVHN dataset in 20,000 iterations.
+- **yolov4-HN_final.weights**: fianl weights trained on SVHN dataset in 20,000 iterations. 
 
 Move all the weights to the **./darknet/DigitDetection/weights/** directory.
 Hence, the weights directory is structured as:
