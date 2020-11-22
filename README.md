@@ -73,10 +73,10 @@ cd ../../
 ```
 After that, you will get a txt file, which contains the corresponding bounding boxes, for each training image in train/ directory.
 
-**Important:** you can download the processed dataset from [dataset.zip](https://drive.google.com/file/d/1dlNmVJmfG9Df9z21hZwKe9hR_h-dPhuG/view?usp=sharing)
+**Important: you can download the processed dataset from [dataset.zip](https://drive.google.com/file/d/1dlNmVJmfG9Df9z21hZwKe9hR_h-dPhuG/view?usp=sharing)**
 
 ## Transfer Training
-**Important:** Download the required pretrained weights and transfer trained weights by [weights.zip](https://drive.google.com/file/d/16GZVXv3TJ7jCptoKbXecIS2hxq25dr3H/view?usp=sharing)
+**Important: Download the required pretrained weights and transfer trained weights by [weights.zip](https://drive.google.com/file/d/16GZVXv3TJ7jCptoKbXecIS2hxq25dr3H/view?usp=sharing)**
 
 - yolov4.conv.137: pretrained on MS COCO dataset
 - yolov4-HN_best.weights: best weights trained on SVHN dataset in 20,000 iterations.
